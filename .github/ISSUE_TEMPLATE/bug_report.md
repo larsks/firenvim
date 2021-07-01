@@ -1,3 +1,7 @@
+---
+name: Bug Report
+about: Reporting a bug, request a feature, etc
+---
 <!--
 
 If you're opening an issue and you have a little bit of time, please take a glance at the [troubleshooting guide](https://github.com/glacambre/firenvim/blob/master/TROUBLESHOOTING.md).
